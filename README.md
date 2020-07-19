@@ -18,6 +18,7 @@ Junaid is a highly motivated software architect with 5+ years of professional an
 📚 Tech Stack: Laravel, GIT, AWS
 
 
+
 2️⃣ Working as a payment gateway & e-commerce consultant at Swiftracks.  
 
 Built the Cevnn (formerly known as Smartpay) Magento Plugin. 🔥
@@ -27,9 +28,11 @@ Built the Cevnn (formerly known as Smartpay) Magento Plugin. 🔥
 📚 Tech Stack: PHP, GIT, Ubuntu
 
 
+
 Added new features to the existing Cevnn Woocommerce Plugin. 🔧
 
 🔗 Link: wordpress.org/plugins/cevnn-payments-gateway/
+
 
 
 3️⃣ Worked as Technical Team Lead and built this amazing LMS Tool called IAPPS. 🏫
