@@ -29,19 +29,29 @@ and much more... ❤️
 ## 📢 Use cases where Junaid can be your developer:
 
 ✅ Need to develop an application from scratch?
+
 ✅ Need to add new features to your application?
+
 ✅ Need to fix a bug in your application?
+
 ✅ Need to integrate a payment processor into your application?
+
 ✅ Need to integrate an API into your application?
-✅ Any custom requirement that an average developer thinks cannot be done...
+
+
 
 ## 🖥️ Technologies which Junaid has extensively used throughout his career:
 
 ✅ PHP, Laravel, VueJS, NodeJS, ReactJS, WordPress, Magento, Shopify (Frameworks & Open Source Platforms) 🌐
+
 ✅ Amazon Web Services, Alibaba Cloud Services, Cpanel (Shared Hosting) ☁️
+
 ✅ Git, Github, Bitbucket, Gitlab (Version Control System) ⛓️
+
 ✅ Mysql, MongoDB (Databases) 🗄️
+
 ✅ WordPress, Magento, Shopify (CMS) 🧲
+
 
 Thanks for reading all of this. 😄
 
