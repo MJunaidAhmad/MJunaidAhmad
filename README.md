@@ -47,4 +47,6 @@ Thanks for reading all of this. 😄
 
 Looking forward to working with you. 🤝
 
+You can drop a message here: junaidahmad.dev@gmail.com 
+
 Thanks & have a good day!
