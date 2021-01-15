@@ -18,12 +18,6 @@ Junaid is a highly motivated software architect with 5+ years of professional an
 📚 Tech Stack: Laravel, GIT, AWS
 
 
-Added new features to the existing Cevnn Woocommerce Plugin. 🔧
-
-🔗 Link: wordpress.org/plugins/cevnn-payments-gateway/
-
-
-
 2️⃣ Worked as Technical Team Lead and built this amazing LMS Tool called IAPPS. 🏫
 
 🔗 Link: weareiapps.com
