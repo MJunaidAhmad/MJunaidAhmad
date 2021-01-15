@@ -9,7 +9,7 @@ If you are looking for a passionate full-stack web developer who can convert you
 Junaid is a highly motivated software architect with 5+ years of professional and 7+ years of programming experience having core expertise in the field of web development. ⚡
 
 
-## 🏆 TOP 3 Achievements: 
+## 🏆 TOP 2 Achievements: 
 
 1️⃣ Created no. 🥇 eBook creation platform Sqribble.net from scratch, an online tool to help create an interactive e-book within minutes using Drag&Drop editor. After its launch it sold out almost 9000 accounts within the first 2 weeks. 🚀 You can also google about it. 🙃
 
@@ -18,24 +18,13 @@ Junaid is a highly motivated software architect with 5+ years of professional an
 📚 Tech Stack: Laravel, GIT, AWS
 
 
-
-2️⃣ Working as a payment gateway & e-commerce consultant at Swiftracks.  
-
-Built the Cevnn (formerly known as Smartpay) Magento Plugin. 🔥
-
-🔗 Link: magento-cevnn.swiftwebdev.com/magento
-
-📚 Tech Stack: PHP, GIT, Ubuntu
-
-
-
 Added new features to the existing Cevnn Woocommerce Plugin. 🔧
 
 🔗 Link: wordpress.org/plugins/cevnn-payments-gateway/
 
 
 
-3️⃣ Worked as Technical Team Lead and built this amazing LMS Tool called IAPPS. 🏫
+2️⃣ Worked as Technical Team Lead and built this amazing LMS Tool called IAPPS. 🏫
 
 🔗 Link: weareiapps.com
 
