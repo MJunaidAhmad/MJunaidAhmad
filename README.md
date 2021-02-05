@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Junaid can work 3-10 times faster than an average web developer. 👑
+Junaid can work 3-4 times faster than an average web developer. 👑
 
 
 If you are looking for a passionate full-stack web developer who can convert your idea/thoughts into a product then you have landed in the right place. 👨‍💻
