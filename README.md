@@ -3,7 +3,7 @@
 If you are looking for a passionate full-stack web developer who can convert your idea/thoughts into a product then you have landed in the right place. 👨‍💻
 
 
-Junaid is a highly motivated software architect with 5+ years of professional and 7+ years of programming experience having core expertise in the field of web development. ⚡
+Junaid is a highly motivated software architect with 6+ years of professional and 8+ years of programming experience having core expertise in the field of web development. ⚡
 
 
 ## 🏆 TOP 2 Achievements: 
